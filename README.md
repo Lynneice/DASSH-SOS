@@ -1,8 +1,8 @@
 # DASSH-SOS
 Dense Assembly of Specialized Subagentic Hierarchy- Self-Observant Systems [DASSH-SOS]
 Author: Lynneice McNutt
--independent ML researcher
-
+- independent ML researcher
+[THIS PAPER IS A WORK IN PROGRESS - 2024]
 ### **Abstract**
 
 This paper proposes an architectural framework for self-observant agentic systems—artificial agents capable of persistent self-monitoring, adaptive role disambiguation, and emergent governance through a panel of specialized subagents. 
